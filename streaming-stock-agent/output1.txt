@@ -1,0 +1,34 @@
+Session: cli_session
+Query: Compare AAPL and MSFT
+------------------------------------------------------------
+
+[Tool calls starting...]
+
+[Calling tool: compare_stocks with args {'symbol1': 'AAPL', 'symbol2': 'MSFT'}]
+[Tool calls completed]
+
+Here's a quick comparison of Apple (AAPL) and Microsoft (MSFT) based on current data:
+
+**Key Metrics:**
+- **Price:**  
+  AAPL: $251.64 (+0.06%)  
+  MSFT: $372.74 (-2.73%)
+
+- **Market Cap:**  
+  AAPL: $3.7 trillion  
+  MSFT: $2.8 trillion
+
+- **P/E Ratio:**  
+  AAPL: 31.85  
+  MSFT: 23.99
+
+**Other Notes:**
+- Microsoft has a tighter valuation (lower P/E) but is down sharply recently.
+- Apple has a higher market cap and stable growth (flat today).
+- MSFT's 52-week range ($344.79–$555.45) shows higher volatility vs. AAPL ($169.21–$288.62).
+
+Both are strong tech companies, but their performance and valuation profiles differ. Would you like to explore specific metrics further?
+[Done]
+
+============================================================
+
